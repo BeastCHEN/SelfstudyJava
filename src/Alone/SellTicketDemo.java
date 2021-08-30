@@ -13,6 +13,9 @@ class SellTicket implements Runnable {
         }
     }
 }
+/**
+ * @author Chen
+ */
 public class SellTicketDemo {
     public static void main(String[] args) {
 //创建SellTicket类的对象
